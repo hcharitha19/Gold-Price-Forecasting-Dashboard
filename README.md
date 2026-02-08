@@ -65,3 +65,6 @@ This folder contains all datasets used in the **Gold Price Forecasting & Analysi
 These datasets are directly connected to the Power BI report (`.pbix`) and should not be modified unless data refresh is required.
 These datasets are directly connected to the Power BI report (`.pbix`) and should not be modified unless data refresh is required.
 
+## Learning Reference:
+Codebasics (data analytics Bootcamp) 
+👉https://codebasics.io/
